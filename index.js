@@ -12,16 +12,16 @@ const buques = [
   { nome: "Buquê de Rosas Roxas e Bombom", categoria: "rosas", preco: "R$ 55,00", descricao: "Buquê com 5 rosas roxas e 1 bombom.\n\n Tamanho Do Buquê:Pequeno", imagem: "5rosas_bombom_nomeio.jpg" },
   { nome: "Buquê de Rosas Azuis com Glitter", categoria: "rosas", preco: "R$ 135,00", descricao: "Buquê com 20 rosas azuis e glitter.\n\n Tamanho Do Buquê:Grande", imagem: "20rosas_azulglitter.jpg" },
   { nome: "Buquê da Princesa Tiana", categoria: "rosas", preco: "R$ 135,00", descricao: "Buquê com rosas verdes e rosas inspirado na princesa Tiana.\n\n Tamanho Do Buquê:Grande", imagem: "20rosas_tiana.jpg" },
- { nome: "Buquê de Rosas Azuis e Branca com Glitter", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 20 rosas com glitter, 8 rosa branca e 19 rosas azuis.\n\n Tamanho:Grande", imagem: "casamento.jpeg"},
-  { nome: "Buquê de Rosas Pretas e Vermelhas com Glitter", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 15 rosas com glitter, 8 rosas pretas e 7 rosas vermelhas.\n\n Tamanho:Grande", imagem: "vermelho_preto.jpeg"},
-  { nome: "Buquê de Rosas Vermelhas com Glitter e Kitkats", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 15 rosas com glitter e 3 kitkats.\n\n Tamanho:Grande", imagem: "vermelho_com_kitkat.jpeg"},
-  { nome: "Buquê de Rosas Roxas", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 20 rosas com glitter.\n\n Tamanho:Grande", imagem: "roxo_claro_e_escuro.jpeg"},
+ { nome: "Buquê de Rosas Azuis e Branca com Glitter", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 20 rosas com glitter, 8 rosa branca e 19 rosas azuis.\n\n Tamanho:Grande", imagem: "casamento.jpg"},
+  { nome: "Buquê de Rosas Pretas e Vermelhas com Glitter", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 15 rosas com glitter, 8 rosas pretas e 7 rosas vermelhas.\n\n Tamanho:Grande", imagem: "vermelho_preto.jpg"},
+  { nome: "Buquê de Rosas Vermelhas com Glitter e Kitkats", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 15 rosas com glitter e 3 kitkats.\n\n Tamanho:Grande", imagem: "vermelho_com_kitkat.jpg"},
+  { nome: "Buquê de Rosas Roxas", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 20 rosas com glitter.\n\n Tamanho:Grande", imagem: "roxo_claro_e_escuro.jpg"},
   { nome: "Buquê de Borboletas Roxas", categoria: "borboletas", preco: "R$ 55,00", descricao: "Buquê de borboletas roxas.\n\n Tamanho Do Buquê:Médio", imagem: "borboleta_roxa.jpg" },
   {nome: "Buquê de Borboletas Rosa",categoria: "borboletas",preco: "R$ 55,00",descricao: "Buquê de borboletas rosas.\n\nTamanho:Médio",imagem: "buque_borboletas_rosas.jpg"},
   { nome: "Buquê de Borboletas Van Gogh", categoria: "borboletas", preco: "R$ 55,00", descricao: "Buquê de borboletas inspirado em Van Gogh.\n\n Tamanho Do Buquê:Médio", imagem: "borboleta_vangogh.jpg" },
   { nome: "Buquê de Borboletas Azuis", categoria: "borboletas", preco: "R$ 55,00", descricao: "Buquê de borboletas azuis.\n\n Tamanho Do Buquê:Médio", imagem: "borboleta_azul.jpg" },
   { nome: "Buquê do Messi", categoria: "personalizados", preco: "R$ 65,00", descricao: "Buquê personalizado com o Messi.\n\n Tamanho Do Buquê:Médio", imagem: "personalizado_messi.jpg" },
-  { nome: "Caixinha Personalizada", categoria: "personalizados", preco: "R$ 55,00", descricao: "Caixinha com 4 fotos e bombom(podendo aumentar a quantidade de bombons).\n\n Tamanho:Médio", imagem:"caixinha_personalizada.jpeg"  },
+  { nome: "Caixinha Personalizada", categoria: "personalizados", preco: "R$ 55,00", descricao: "Caixinha com 4 fotos e bombom(podendo aumentar a quantidade de bombons).\n\n Tamanho:Médio", imagem:"caixinha_personalizada.jpg"  },
   { nome: "Roda-Gigante com Fotos", categoria: "personalizados", preco: "R$ 55,00", descricao: "Roda-gigante com 8 fotos.\n\n Tamanho:Médio", imagem: "roda_gigante.jpg" }
   ];
 
