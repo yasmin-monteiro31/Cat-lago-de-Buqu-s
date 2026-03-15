@@ -17,7 +17,7 @@ const buques = [
   { nome: "Buquê de Borboletas Van Gogh", categoria: "borboletas", preco: "R$ 55,00", descricao: "Buquê de borboletas inspirado em Van Gogh.\n\n Tamanho Do Buquê:Médio", imagem: "borboleta_vangogh.jpg" },
   { nome: "Buquê de Borboletas Azuis", categoria: "borboletas", preco: "R$ 55,00", descricao: "Buquê de borboletas azuis.\n\n Tamanho Do Buquê:Médio", imagem: "borboleta_azul.jpg" },
   { nome: "Buquê do Messi", categoria: "personalizados", preco: "R$ 65,00", descricao: "Buquê personalizado com o Messi.\n\n Tamanho Do Buquê:Médio", imagem: "personalizado_messi.jpg" },
-  { nome: "Caixinha Personalizada", categoria: "personalizados", preco: "R$ 55,00", descricao: "Caixinha com 4 fotos e bombom(podendo aumentar a quantidade de bombons).\n\n Tamanho:Médio", imagem: "caixinha.jpg" },
+  { nome: "Caixinha Personalizada", categoria: "personalizados", preco: "R$ 55,00", descricao: "Caixinha com 4 fotos e bombom(podendo aumentar a quantidade de bombons).\n\n Tamanho:Médio", imagem:"caixinha_personalizada.jpeg"  },
   { nome: "Roda-Gigante com Fotos", categoria: "personalizados", preco: "R$ 55,00", descricao: "Roda-gigante com 8 fotos.\n\n Tamanho:Médio", imagem: "roda_gigante.jpg" }
   ];
 
