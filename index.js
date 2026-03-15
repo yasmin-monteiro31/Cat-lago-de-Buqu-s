@@ -14,7 +14,7 @@ const buques = [
   { nome: "Buquê da Princesa Tiana", categoria: "rosas", preco: "R$ 135,00", descricao: "Buquê com rosas verdes e rosas inspirado na princesa Tiana.\n\n Tamanho Do Buquê:Grande", imagem: "20rosas_tiana.jpg" },
   { nome: "Buquê de Rosas Azuis e Branca com Glitter", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 20 rosas com glitter, 8 rosa branca e 19 rosas azuis.\n\n Tamanho:Grande", imagem: "casamento.jpg"},
   { nome: "Buquê de Rosas Pretas e Vermelhas com Glitter", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 15 rosas com glitter, 8 rosas pretas e 7 rosas vermelhas.\n\n Tamanho:Grande", imagem: "vermelho_preto.jpg"},
-  { nome: "Buquê de Rosas Vermelhas com Glitter e Kitkats", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 15 rosas com glitter e 3 kitkats.\n\n Tamanho:Grande", imagem: "vermelho_com_kitkat.jpg"},
+  { nome: "Buquê de Rosas Vermelhas com Glitter e 3 Kitkat's", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 15 rosas com glitter e 3 Kitkat's.\n\n Tamanho:Grande", imagem: "vermelho_com_kitkat.jpg"},
   { nome: "Buquê de Rosas Roxas", categoria :"rosas", preco: "R$135,00", descricao:"Buquê de 20 rosas com glitter.\n\n Tamanho:Grande", imagem: "roxo_claro_e_escuro.jpg"},
   { nome: "Buquê de Borboletas Roxas", categoria: "borboletas", preco: "R$ 55,00", descricao: "Buquê de borboletas roxas.\n\n Tamanho Do Buquê:Médio", imagem: "borboleta_roxa.jpg" },
   {nome: "Buquê de Borboletas Rosa",categoria: "borboletas",preco: "R$ 55,00",descricao: "Buquê de borboletas rosas.\n\nTamanho:Médio",imagem: "buque_borboletas_rosas.jpg"},
